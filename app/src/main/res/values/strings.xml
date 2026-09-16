@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apple TV Style Launcher</string>
+    <string name="settings">Configurações</string>
+    <string name="screensaver_timeout">Tempo de suspensão de tela</string>
+    <string name="columns">Colunas no grid</string>
+    <string name="show_app_names">Mostrar nomes dos apps</string>
+    <string name="wallpaper">Papel de parede</string>
+    <string name="night_mode">Modo Noite (iOS 18 style)</string>
+    <string name="reset_defaults">Restaurar padrões</string>
+    <string name="about">Sobre</string>
+    <string name="version">Versão 1.0.0</string>
+    <string name="dream_description">Relógio elegante estilo iOS 18 Night</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="pure_black">#000000</color>
+    <color name="dark_bg">#0A0A0A</color>
+    <color name="card_bg">#1C1C1E</color>
+    <color name="focus_glow">#5E5CE6</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="accent">#0A84FF</color>
+    <color name="divider">#2C2C2E</color>
+    <color name="clock_color">#FFFFFF</color>
+    <color name="screensaver_clock">#F5F5F7</color>
+</resources>
